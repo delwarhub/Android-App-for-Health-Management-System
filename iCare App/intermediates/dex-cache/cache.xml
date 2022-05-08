@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\JU CSE\.android\build-cache\6ea5118c7ac7259c47ec5c8a7c11ff8ec870fc59\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\Apps Store\ICare\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8eae0eeb76f4ee3414f3178a38711330ef118fa7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JU CSE\.android\build-cache\64d0e49f94e6a275d1b6be425f5e5461539ae534\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="G:\Apps Store\ICare\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_edd5f94bd97ecb8cf98efde2fff31ffe4e371f50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JU CSE\.android\build-cache\8b3b49c1bfae070e0038d0727fb1d102c4754f47\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="G:\Apps Store\ICare\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_865c0655a0afc408ba28f9eb1801f42a43989908\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Apps Store\ICare\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="G:\Apps Store\ICare\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_aa23e1ec715f527b6cd46bf3ca01ecad62ad4661\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JU CSE\.android\build-cache\893b3c19973c9f536f0b52e9f346f80d6d9e37bb\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="G:\Apps Store\ICare\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_56c40f6ffb7b2949bea7d15be7bcbc25464f4118\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JU CSE\.android\build-cache\e76b84b3e59b29a23c8e52c7d504a94641a16a08\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="G:\Apps Store\ICare\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec1e18d8f879d345243611233a9de92b939d7fd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JU CSE\.android\build-cache\7e61c89c421bfd7340b984a291f0de499d95c226\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="G:\Apps Store\ICare\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a390ef95427c87551f3ae08ca9b47c8241937c01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JU CSE\.android\build-cache\7e61c89c421bfd7340b984a291f0de499d95c226\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="G:\Apps Store\ICare\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_356793028bc9a9e484edb93e79906b68b13900f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JU CSE\.android\build-cache\deb3b80a5f37a9f57002f4528a13388e6c130382\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="G:\Apps Store\ICare\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_6ac7563c522320aae6462a49550fd986bee9139b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JU CSE\.android\build-cache\64d0e49f94e6a275d1b6be425f5e5461539ae534\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="G:\Apps Store\ICare\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b992ca5187ab2fe279a224d90a789dd2ad85c68f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="G:\Apps Store\ICare\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_16128bb952b249ea89156d52592a7d2d261dd827\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JU CSE\.android\build-cache\c36eb14021f2cf0db4c303de19c7735635c52dc4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="G:\Apps Store\ICare\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_84386f1676b8fc0a74b732a1ba12fabf7515023b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Apps Store\ICare\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e38bbcac7d4bffdf7a57627b62e538a9c6ee6d0">
+        <dex dex="G:\Apps Store\ICare\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1ed02aea19a24706a83dfcf4b251182b88d31330\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JU CSE\.android\build-cache\783d1cf7b3225de35d629f4c2ec5b27e39462691\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="G:\Apps Store\ICare\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79c9163b5ee2e526916992e0975fbbbcbd2d6f7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JU CSE\.android\build-cache\deb3b80a5f37a9f57002f4528a13388e6c130382\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="G:\Apps Store\ICare\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2724240a0ce77c5d59810f5bba480621340cfc95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JU CSE\.android\build-cache\8b3b49c1bfae070e0038d0727fb1d102c4754f47\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="G:\Apps Store\ICare\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_4b884127acaabb77e129da03c7385be9a192dc3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\JU CSE\.android\build-cache\893b3c19973c9f536f0b52e9f346f80d6d9e37bb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="G:\Apps Store\ICare\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8078a55a4980897a16afa887d011a863a2c443c7\classes.dex" />
+    </item>
+
+</items>
