@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lazyprogrammer.icare" >
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:logo="@mipmap/ic_launcher"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".CreateProfile"
+            android:label="@string/title_activity_create_profile" >
+        </activity>
+        <activity
+            android:name=".AllService"
+            android:label="@string/title_activity_all_service" >
+        </activity>
+        <activity
+            android:name=".MyDietChart"
+            android:label="@string/title_activity_my_diet_chart" >
+        </activity>
+        <activity
+            android:name=".AddDietChart"
+            android:label="@string/title_activity_add_diet_chart" >
+        </activity>
+        <activity
+            android:name=".ServiceOthers"
+            android:label="@string/title_activity_service_others" >
+        </activity>
+        <activity
+            android:name=".NoteEditor"
+            android:label="@string/title_activity_note_editor" >
+        </activity>
+        <activity
+            android:name=".NoteList"
+            android:label="@string/title_activity_note_list" >
+        </activity>
+        <activity
+            android:name=".NoteView"
+            android:label="@string/title_activity_note_view" >
+        </activity>
+        <activity
+            android:name=".NoteUpdate"
+            android:label="@string/title_activity_note_update" >
+        </activity>
+        <activity
+            android:name=".ProfileView"
+            android:label="Profile" >
+        </activity>
+        <activity
+            android:name=".UpdateProfile"
+            android:label="Update profile" >
+        </activity>
+
+        <receiver android:name=".AlarmReceiverDiet" />
+
+        <activity
+            android:name=".DietView"
+            android:label="@string/title_activity_diet_view" >
+        </activity>
+        <activity
+            android:name=".DietEdit"
+            android:label="@string/title_activity_diet_edit" >
+        </activity>
+        <activity
+            android:name=".EmergencyCallView"
+            android:label="@string/title_activity_emergency_call_view" >
+        </activity>
+        <activity
+            android:name=".EmergencyNumberAdd"
+            android:label="@string/title_activity_emergency_number_add" >
+        </activity>
+        <activity
+            android:name=".EmergencyNumberEdit"
+            android:label="@string/title_activity_emergency_number_edit" >
+        </activity>
+        <activity
+            android:name=".DoctorAdd"
+            android:label="@string/title_activity_doctor_add" >
+        </activity>
+        <activity
+            android:name=".DoctorList"
+            android:label="@string/title_activity_doctor_list" >
+        </activity>
+        <activity
+            android:name=".DoctorView"
+            android:label="@string/title_activity_doctor_view" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ICare</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_create_profile">Patient Profile</string>
+    <string name="title_activity_all_service">All Service</string>
+    <string name="title_activity_my_diet_chart">My Diet Chart</string>
+    <string name="title_activity_add_diet_chart">Add Diet Chart</string>
+
+    <string name="drawer_open">Your health assistant</string>
+    <string name="drawer_close">iCare</string>
+    <string name="title_activity_service_others">All Service</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_note_editor">Note Editor</string>
+    <string name="title_activity_note_list">Notes</string>
+    <string name="title_activity_note_view">My Note</string>
+    <string name="title_activity_note_update">Update Note</string>
+
+    <string name="title_activity_profile_view">Profile View</string>
+    <string name="title_activity_update_profile">Update Profile</string>
+    <string name="title_activity_diet_view">"View diet "</string>
+    <string name="title_activity_diet_edit">Edit diet chart</string>
+    <string name="title_activity_emergency_call_view">Emergency Call</string>
+    <string name="title_activity_emergency_number_add">Add Number</string>
+    <string name="title_activity_emergency_number_edit">Edit number</string>
+    <string name="title_activity_doctor_add">Add doctor</string>
+    <string name="title_activity_doctor_list">Doctor\'s</string>
+    <string name="title_activity_doctor_view">Doctor profile</string>
+
+</resources>
