@@ -1,4 +1,4 @@
-## Adroid App for Health Management System
+## Adroid App for Health Management System(iCare)
 
 ### ACKNOWLEDGEMENT
 
