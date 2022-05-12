@@ -1,4 +1,4 @@
-## Adroid App for Health Management System(iCare)
+## Android App for Health Management System(iCare)
 
 ### ACKNOWLEDGEMENT
 
